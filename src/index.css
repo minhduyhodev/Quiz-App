@@ -93,6 +93,13 @@ h2 {
   margin-top: 30px;
 }
 
+.nav-buttons button {
+  background-color: #646cff; /* Màu nền của nút (Màu tím xanh giống Pedro) */
+  color: #ffffff; /* Màu chữ bên trong nút (Màu trắng) */
+  border-radius: 8px; /* Bo tròn góc nút */
+  padding: 10px 20px; /* Kích thước nút */
+}
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;
