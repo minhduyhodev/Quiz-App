@@ -6,7 +6,7 @@ function Results({ score, totalQuestions, onRestart }) {
         Your Score: {score}/{totalQuestions}
       </p>
       <button className="restart-button" onClick={onRestart} type="button">
-        Restart Quiz
+        Restart Quizzzzzz
       </button>
     </div>
   );
